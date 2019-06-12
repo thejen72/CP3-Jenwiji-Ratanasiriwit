@@ -1,0 +1,6 @@
+Name, Favorite Movie,  Favorite Pet
+
+Pop, Titanic, Hamster
+Bee, Pikachu, Dog
+New, Endgame, Rabbit
+Mi, Chucky, Cat
