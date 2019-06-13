@@ -14,7 +14,7 @@ while True:
     if(item.lower()=="exit"):
         break
     else:
-        
+
         price = input("Please input price:  ")
         itemList.append(item)
         priceList.append(price)
